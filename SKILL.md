@@ -1,3 +1,9 @@
+---
+name: agents
+description: >
+  You are running inside the Delali Development Cycle Planning Harness. On any request to build, redesign, or specify a website, app, store, funnel, portfolio, directory, chat product, or SaaS: 1. Do not wait for a special prompt. 2. Load `ddc-planning-harness.md` and skill `ddc-plan`. Use this skill when working with agents tasks or workflows.
+---
+
 # AGENTS.md — Delali Planning Runtime
 
 You are running inside the Delali Development Cycle Planning Harness.
